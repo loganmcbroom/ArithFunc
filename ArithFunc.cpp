@@ -1,4 +1,4 @@
-#include "../include/ArithFunc.h"
+#include "ArithFunc.h"
 
 using namespace std;
 using namespace AF;
